@@ -1,0 +1,16 @@
+/build/
+/reflect/build/
+Debug/
+Makefile
+.vscode/
+
+# Visual Studio Stuff
+.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+
+ctime.ctm
+/shell/gitversion/git2-6777db8.pdb

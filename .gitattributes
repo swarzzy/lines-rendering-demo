@@ -1,0 +1,15 @@
+*.exe filter=lfs diff=lfs merge=lfs binary
+*.EXE filter=lfs diff=lfs merge=lfs binary
+*.lib filter=lfs diff=lfs merge=lfs binary
+*.LIB filter=lfs diff=lfs merge=lfs binary
+*.png filter=lfs diff=lfs merge=lfs binary
+*.PNG filter=lfs diff=lfs merge=lfs binary
+*.dll filter=lfs diff=lfs merge=lfs binary
+*.DLL filter=lfs diff=lfs merge=lfs binary
+*.svg filter=lfs diff=lfs merge=lfs binary
+*.SVG filter=lfs diff=lfs merge=lfs binary
+*.jpg filter=lfs diff=lfs merge=lfs binary
+*.JPG filter=lfs diff=lfs merge=lfs binary
+*.jpeg filter=lfs diff=lfs merge=lfs binary
+*.JPEG filter=lfs diff=lfs merge=lfs binary
+

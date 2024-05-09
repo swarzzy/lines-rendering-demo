@@ -1,0 +1,5 @@
+stb_image - 2.26
+stb_truetype - 1.24
+SDL2 - 2.0.14
+imgui - 1.89.3
+mimalloc - 2.0.2
